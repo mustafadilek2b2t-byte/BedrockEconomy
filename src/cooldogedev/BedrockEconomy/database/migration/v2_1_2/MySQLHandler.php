@@ -30,7 +30,7 @@ declare(strict_types=1);
 
 namespace cooldogedev\BedrockEconomy\database\migration\v2_1_2;
 
-use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\MySQLQuery;
+use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\query\MySQLQuery;
 use mysqli;
 
 final class MySQLHandler extends MySQLQuery

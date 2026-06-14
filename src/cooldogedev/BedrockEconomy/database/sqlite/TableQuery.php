@@ -31,7 +31,7 @@ declare(strict_types=1);
 namespace cooldogedev\BedrockEconomy\database\sqlite;
 
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\SQLiteQuery;
+use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\query\SQLiteQuery;
 use SQLite3;
 
 final class TableQuery extends SQLiteQuery

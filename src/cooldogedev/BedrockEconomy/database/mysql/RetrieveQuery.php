@@ -34,7 +34,7 @@ use cooldogedev\BedrockEconomy\database\exception\RecordNotFoundException;
 use cooldogedev\BedrockEconomy\database\helper\AccountHolder;
 use cooldogedev\BedrockEconomy\database\helper\ReferenceHolder;
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\MySQLQuery;
+use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\query\MySQLQuery;
 use mysqli;
 
 final class RetrieveQuery extends MySQLQuery

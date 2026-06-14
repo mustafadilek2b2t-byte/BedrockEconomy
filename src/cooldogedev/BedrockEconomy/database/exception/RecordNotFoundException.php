@@ -30,6 +30,6 @@ declare(strict_types=1);
 
 namespace cooldogedev\BedrockEconomy\database\exception;
 
-use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\exception\SQLException;
+use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\exception\SQLException;
 
 final class RecordNotFoundException extends SQLException {}
