@@ -201,7 +201,7 @@
             "autoload": {
                 "psr-4": {
                     "CortexPE\\Commando\\": [
-                        "src\\CortexPE\\Commando\\"
+                        "src/CortexPE/Commando/"
                     ]
                 }
             },
