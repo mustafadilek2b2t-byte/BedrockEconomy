@@ -32,7 +32,7 @@ namespace cooldogedev\BedrockEconomy\database\sqlite;
 
 use cooldogedev\BedrockEconomy\database\helper\AccountHolder;
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\query\SQLiteQuery;
+use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\cooldogedev\libSQL\query\SQLiteQuery;
 use SQLite3;
 
 final class MigrationQuery extends SQLiteQuery

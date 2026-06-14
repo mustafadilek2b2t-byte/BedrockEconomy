@@ -46,7 +46,7 @@ use cooldogedev\BedrockEconomy\database\sqlite\TableQuery as SQLiteTableQuery;
 use cooldogedev\BedrockEconomy\database\sqlite\TopQuery as SQLiteTopQuery;
 use cooldogedev\BedrockEconomy\database\sqlite\TransferQuery as SQLiteTransferQuery;
 use cooldogedev\BedrockEconomy\database\sqlite\UpdateQuery as SQLiteUpdateQuery;
-use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\cooldogedev\libSQL\query\SQLQuery;
+use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\cooldogedev\libSQL\query\SQLQuery;
 
 final class QueryManager
 {

@@ -35,7 +35,7 @@ use cooldogedev\BedrockEconomy\BedrockEconomy;
 use cooldogedev\BedrockEconomy\database\exception\RecordNotFoundException;
 use cooldogedev\BedrockEconomy\event\CacheInvalidateEvent;
 use Generator;
-use cooldogedev\BedrockEconomy\libs\_e57010fe67ebafc6\SOFe\AwaitGenerator\Await;
+use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\SOFe\AwaitGenerator\Await;
 
 final class GlobalCache
 {
