@@ -39,13 +39,13 @@ use cooldogedev\BedrockEconomy\database\exception\RecordNotFoundException;
 use cooldogedev\BedrockEconomy\language\KnownMessages;
 use cooldogedev\BedrockEconomy\language\LanguageManager;
 use cooldogedev\BedrockEconomy\language\TranslationKeys;
-use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\cooldogedev\libSQL\exception\SQLException;
-use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\CortexPE\Commando\args\IntegerArgument;
-use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\CortexPE\Commando\args\RawStringArgument;
-use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\CortexPE\Commando\BaseCommand;
+use cooldogedev\BedrockEconomy\libs\_1029d4c257505487\cooldogedev\libSQL\exception\SQLException;
+use cooldogedev\BedrockEconomy\libs\_1029d4c257505487\CortexPE\Commando\args\IntegerArgument;
+use cooldogedev\BedrockEconomy\libs\_1029d4c257505487\CortexPE\Commando\args\RawStringArgument;
+use cooldogedev\BedrockEconomy\libs\_1029d4c257505487\CortexPE\Commando\BaseCommand;
 use Generator;
 use pocketmine\command\CommandSender;
-use cooldogedev\BedrockEconomy\libs\_ed66d3cc086e17da\SOFe\AwaitGenerator\Await;
+use cooldogedev\BedrockEconomy\libs\_1029d4c257505487\SOFe\AwaitGenerator\Await;
 use function is_numeric;
 
 final class SetBalanceCommand extends BaseCommand
