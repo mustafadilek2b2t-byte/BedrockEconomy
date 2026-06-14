@@ -34,7 +34,7 @@ use cooldogedev\BedrockEconomy\database\exception\RecordAlreadyExistsException;
 use cooldogedev\BedrockEconomy\database\helper\AccountHolder;
 use cooldogedev\BedrockEconomy\database\helper\ReferenceHolder;
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\libSQL\query\MySQLQuery;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\MySQLQuery;
 use mysqli;
 
 final class InsertionQuery extends MySQLQuery

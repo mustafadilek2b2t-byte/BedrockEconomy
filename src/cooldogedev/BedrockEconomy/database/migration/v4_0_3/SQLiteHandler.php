@@ -31,7 +31,7 @@ declare(strict_types=1);
 namespace cooldogedev\BedrockEconomy\database\migration\v4_0_3;
 
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\libSQL\query\SQLiteQuery;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\SQLiteQuery;
 use SQLite3;
 use const SQLITE3_ASSOC;
 

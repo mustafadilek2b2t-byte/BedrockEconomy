@@ -34,7 +34,7 @@ use cooldogedev\BedrockEconomy\database\exception\RecordNotFoundException;
 use cooldogedev\BedrockEconomy\database\exception\InsufficientFundsException;
 use cooldogedev\BedrockEconomy\database\helper\AccountHolder;
 use cooldogedev\BedrockEconomy\database\helper\TableHolder;
-use cooldogedev\libSQL\query\SQLiteQuery;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\query\SQLiteQuery;
 use SQLite3;
 
 final class TransferQuery extends SQLiteQuery

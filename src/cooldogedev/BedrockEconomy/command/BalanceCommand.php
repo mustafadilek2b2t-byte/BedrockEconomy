@@ -38,13 +38,13 @@ use cooldogedev\BedrockEconomy\database\exception\RecordNotFoundException;
 use cooldogedev\BedrockEconomy\language\KnownMessages;
 use cooldogedev\BedrockEconomy\language\LanguageManager;
 use cooldogedev\BedrockEconomy\language\TranslationKeys;
-use cooldogedev\libSQL\exception\SQLException;
-use CortexPE\Commando\args\RawStringArgument;
-use CortexPE\Commando\BaseCommand;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\cooldogedev\libSQL\exception\SQLException;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\CortexPE\Commando\args\RawStringArgument;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\CortexPE\Commando\BaseCommand;
 use Generator;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
-use SOFe\AwaitGenerator\Await;
+use cooldogedev\BedrockEconomy\libs\_7d09d7baf31a880d\SOFe\AwaitGenerator\Await;
 
 final class BalanceCommand extends BaseCommand
 {
